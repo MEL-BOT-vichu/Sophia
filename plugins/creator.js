@@ -56,7 +56,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════💖MEL-BOT💖═════╗*\n           \n*⚜═ᴠɪᴄʜᴜ⸙═⚜*\n\n*BOT MADE BY ᴠɪᴄʜᴜ⸙*\n* *\n🪀FOR HELP : wa.me/916282715084*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Vichu*"
+    r_text[1] = "*╔═════💖MEL-BOT💖═════╗*\n           \n*⚜═ᴠɪᴄʜᴜ⸙═⚜*\n\n*BOT MADE BY ᴠɪᴄʜᴜ⸙*\n* *\n🪀FOR HELP : wa.me/+79819658699*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Vichu*"
 
     
 
@@ -72,7 +72,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═MEL-BOT made by VICHU═💥*\n\n*💘 https://github.com/MEL-BOT-vichu/Sophia*\n     \n🌚*\n\n*FOR HELP : wa.me/916282715084*    \n\n *THANK YOU FOR USING MEL-BOT**"
+        r_text[1] = "*Git links*\n           *\n💥═MEL-BOT made by VICHU═💥*\n\n*💘 https://github.com/MEL-BOT-vichu/Sophia*\n     \n🌚*\n\n*FOR HELP : wa.me/+79819658699*    \n\n *PUBLIC MEL-BOT NUMBER : wa.me/+27842524794*"
 
     
 
