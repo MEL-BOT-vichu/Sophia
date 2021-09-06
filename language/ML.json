@@ -8,15 +8,15 @@
             "COMMAND": "Command",
             "DESC": "Description",
             "EXAMPLE": "Example",
-            "NOT_FOUND": "*ingane oru command kand ethan aayilla*",
+            "NOT_FOUND": "*ഇങ്ങനെ ഒരു command കണ്ട് എത്താൻ ആയില്ല*",
             "WARN": "Warn"
         },
         "_plugin": {
-            "INSTALL_DESC": "exetrnal plugins install cheyaan.",
-            "NEED_URL": "oru url venam! Example:",
-            "INVALID_URL": "```valid aayitt ulla oru url theru!```",
-            "INVALID_PLUGIN": "*❌ ningall thanna plugin invalid aan!*\n*Error:*",
-            "INSTALLED": "*✅ Plugin install cheythu!*",
+            "INSTALL_DESC": "exetrnal plugins install ചെയാൻ.",
+            "NEED_URL": "ഒരു url വേണം മോനുസേ! Example:",
+            "INVALID_URL": "```valid ആയിട്ട് ഉള്ള ഒരു url തെരു മോനെ!```",
+            "INVALID_PLUGIN": "*❌ നിങ്ങൾ തന്ന plugin invalid ആണ്!*\n*Error:*",
+            "INSTALLED": "*✅ Plugin install ചെയ്തു!*",
             "PLUGIN_DESC": "ningal instal cheytha plugins kaanikkum.",
             "INSTALLED_FROM_REMOTE": "*ningal external aayitt install cheytha plugins:*\n",
             "NO_PLUGIN": "*ningal external aayitt plugins onnum install cheythitt illa!*",
@@ -26,28 +26,28 @@
             "DELETED": "*✅ module delete aaki!*"
         },
         "admin": {
-            "BAN_DESC": "groupil nin arellum porth akaan. ayallude messagin reply cheyu allenkill tag cheyyu.",
-            "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
-            "BANNED": "Mwonu Ok Bie!",
-            "GIVE_ME_USER": "*arelum mention chey😈!*",
-            "ADD_DESC": "Adds someone to the group.",
-            "ADDED": "groupilott keteekn!",
-            "ALREADY_PROMOTED": "```Avan admin anu nenpa🙃```",
-            "PROMOTED": "```admin aakki..!```",
-            "PROMOTE_DESC": "oralle admin akkaan.",
-            "DEMOTE_DESC": "admin sthanam edth kalaayan.",
-            "ALREADY_NOT_ADMIN": "```admine njan engane veendum admin aakkum?```",
-            "DEMOTED": "```, ivante admin sthanam onn mateekn!```",
-            "MUTE_DESC": "group messaging admin mathram akaan.",
-            "MUTED": "```admin only aakki!```",
-            "UNMUTE_DESC": "aarkum message ayaan, admin only allathe akkan.",
-            "UNMUTED": "```admin only allathe akeett und!```",
-            "INVITE_DESC": "groupilikk kshennikaan ulla linkin aayitt.",
-            "INVITE": "```kshana kath..😉: ```"
+            "BAN_DESC": "ഗ്രൂപ്പിൽ ഉള്ള ആരെയെങ്കിലും അടിച്ചു പുറത്ത് ആക്കണം എന്നു ഉണ്ടങ്കിൽ അവനെ ഒന്ന് mention ചെയ്താൽ മതി😼.",
+            "IM_NOT_ADMIN": "*ഞാൻ admin അല്ലാലോ ഡാ കുട്ടാ☹️*",
+            "BANNED": "മൈ** കടക്ക് പുറത്ത്😾!",
+            "GIVE_ME_USER": "*പുറത്ത് ആകേണ്ട മലരനെ ഒന്ന് mention ചെയ്😈!*",
+            "ADD_DESC": "ഗ്രൂപ്പിലോട്ട് ആരെയെങ്കിലും add ആകാൻ.",
+            "ADDED": "ഗ്രൂപ്പിലോട്ട് add അക്കിട്ടുണ്ട്😇!",
+            "ALREADY_PROMOTED": "```അവൻ admin ആണലോ മോനുസേ🚶‍♂️```",
+            "PROMOTED": "```CONGRATULATION bro..... നിന്നെ ഞാൻ admin ആക്കിട്ടുണ്ട്😍!```",
+            "PROMOTE_DESC": "ഗ്രൂപ്പിൽ ഉള്ള ആരെയെങ്കിലും admin ആകാൻ.... വിശ്വാസം ഉള്ളവരെ മാത്രം admin ആക്കുക🤸‍♀️.",
+            "DEMOTE_DESC": "Admin സ്ഥാനം തൂക്കി എടുത്ത് കളയാൻ🌚.",
+            "ALREADY_NOT_ADMIN": "```അഡ്മിനെ ഞാൻ എങ്ങനെയാ കുട്ടാ ഇന്നിം admin ആക്കുനെ👀?```",
+            "DEMOTED": "```ഈ മോനുസിന്റെ admin സ്ഥാനം തൂക്കി എടുത്ത് കളഞ്ഞിട്ടുണ്ട്🤸‍♀️!```",
+            "MUTE_DESC": "Admin മാത്രം മെസ്സേജ് അയക്കാൻ പറ്റുന്ന വിധം ആക്കി വെക്കാൻ🤸‍♀️.",
+            "MUTED": "```ഇനി admins മാത്രം മെസ്സേജ് അയച്ചാ മതി💖!```",
+            "UNMUTE_DESC": "Admins only ആണെങ്കിൽ അത് മാറ്റാൻ👀.",
+            "UNMUTED": "```ഇനി ആർക്കു വേണേലും മെസ്സേജ് അയക്കാം💃!```",
+            "INVITE_DESC": "ഗ്രൂപ്പിന്റെ ക്ഷേണ കത്ത് ലഭിക്കാൻ😇.",
+            "INVITE": "```ഇന്നാ ഗ്രൂപ്പിന്റെ ക്ഷേണ കത്ത്🌚: ```"
         },
         "locate": {
             "L_DESC": "location ayach therum.",
-            "L_WARN": "location on aan enn orapp verthugga!"
+            "L_WARN": "location on aan enn orapp വെരുത്തുക!"
         },
         "random_pic":{
             "BTS_DESC": "Get BTS random images.",
@@ -61,7 +61,7 @@
             "REASON": "kaaranam",
             "LAST_SEEN": "avasanam kandath",
             "IM_NOT_AFK": "```njan AFK aan!```",
-            "AFK_TEXT": "```ente owner ippo online illa.```",
+            "AFK_TEXT": "```എന്റെ owner ആയ VICHU ser ഇപ്പൊ online ഇല്ല.```",
             "AFK_TEXT_NOMD": "njan bot aan!",
             "HOUR": "manikoor",
             "MINUTE": "minute",
@@ -78,19 +78,19 @@
         },     
         "info": {
             "INFO_DESC": "Show chat details",
-            "GRP_NAME": "*ℹ️ Group name :*",
-            "GRP_JID": "*💬 Group JID :*",
-            "GRP_OWN": "*⚜️ Group owner :*",
-            "GRP_COD": "*🆔 Group invite link :*",
-            "GRP_DES": "*🗨️ Group description :*",
-            "PRO_JID": "*💬 User JID :*",
-            "PRO_DES": "*🗨️ Description :*"
+            "GRP_NAME": "*ℹ️ ഗ്രൂപ്പിന്റെ പേര് :*",
+            "GRP_JID": "*💬 ഗ്രൂപ്പിന്റെ JID :*",
+            "GRP_OWN": "*🔅 ഗ്രൂപ്പിന്റെ owner :*",
+            "GRP_COD": "*✳️ ഗ്രൂപ്പിന്റെ ക്ഷേണ കത്ത് :*",
+            "GRP_DES": "*🗨️ ഗ്രൂപ്പിന്റെ description :*",
+            "PRO_JID": "*💬 Userഇന്റെ JID :*",
+            "PRO_DES": "*🗨️ USERഇന്റെ Description :*"
         },
         "heroku": {
-            "RESTART_DESC": "\nRestart pinkymwol\n",
-            "RESTART_MSG": "```punararambikkunu...```",
-            "SHUTDOWN_DESC": "\nShutdown pinkymwol\n",
-            "SHUTDOWN_MSG": "```adach poottunnu ⛔```",
+            "RESTART_DESC": "\nMEL-BOTഇന്നേ RESTART ചെയുന്നതിനായി\n",
+            "RESTART_MSG": "```MEL-BOT RESTARTING🌟```",
+            "SHUTDOWN_DESC": "\nShutdown MEL-BOTl\n",
+            "SHUTDOWN_MSG": "```MEL-BOT ഇന്നേ അടച്ചു പൂട്ടുന്നു⛔```",
             "DYNO_DESC": "heroku dyno kanaan ",
             "DYNO_TOTAL": "```motham Quota```",
             "DYNO_USED": "```Quota upayogichath```",
@@ -141,9 +141,9 @@
             "DISABLED": "```Lydia has been disabled for this user!```"
         },
         "memes": {
-            "MEMES_DESC": "replay cheytha chithrathil meme text add aakunu.",
-            "NEED_REPLY": "\n*oru chithrathin reply cheyyu!*\n",
-            "DOWNLOADING": "```chithrathil eyuthh add cheyyunu...```"
+            "MEMES_DESC": "Reply ചെയ്ത ചിത്രത്തിൽ meme text add ആക്കുന്നു😍.",
+            "NEED_REPLY": "\n*ഒരു ചിത്രത്തിന് reply ചെയ്യൂ!*\n",
+            "DOWNLOADING": "```ചിത്രത്തിൽ text add ചെയ്യുന്നു💖...```"
         },
         "log": {
             "LOG": "ningal reply cheytha message ningalude privete numberil save aakum.",
@@ -156,11 +156,11 @@
             "SUC": "*Message vijayagramayyi logil save cheythu!*"
         },
         "ocr": {
-            "OCR_DESC": "ningal reply cheytha chithrathile eyuth vayich theraan.",
+            "OCR_DESC": "ningal reply cheytha chithrathile എഴുത് vayich theraan.",
             "NEED_REPLY": "*oru chithrathin reply cheyyu!*",
-            "DOWNLOADING": "```njan ith onn vayich nokkatte...```",
-            "ERROR": "```enik vayikaan kayyunilla :/```\n*Error:*```{}```",
-            "RESULT": "*baasha:* ```{}```\n*ithaan njan vayichath:* ```{}```"
+            "DOWNLOADING": "```ഞാൻ ഇത് ഒന്ന് വായിച്ചു നോക്കട്ടെ🧐...```",
+            "ERROR": "```enik വായിക്കാൻ കഴിയുനില്ല😣:/```\n*Error:*```{}```",
+            "RESULT": "*LANGUAGE:* ```{}```\n*ഇതാണ് ഞാൻ വായിച്ചത്:* ```{}```"
         },
         "profile": {
             "KICKME_DESC": "enne groupill nin purath akaan.",
@@ -170,8 +170,8 @@
             "PPING": "```profile maattunnu...```",
             "BLOCK_DESC": "Block user.",
             "UNBLOCK_DESC": "Unblock user.",
-            "BLOCKED": "block aakki",
-            "UNBLOCKED": "unblock aakki",
+            "BLOCKED": "നീയും ആയി ഞാൻ ഇനി മിണ്ടില്ല😒",
+            "UNBLOCKED": "നിന്റെ അടുത്ത് ഞാൻ ഇനി മിണ്ടാം🌚",
             "BLOCKED_UPPER": "Block aakki!",
             "UNBLOCKED_UPPER": "Unblock aakki.",
             "NEED_USER": "oru usere theru!",
@@ -180,10 +180,10 @@
             "JID_CHAT": "```Chat inte JID address: {}```"
         },
         "removebg": {
-            "REMOVEBG_DESC": "chithrathinte background maayichu kalaayan.",
-            "NEED_PHOTO": "*photo thaa mister!*",
-            "NO_API_KEY": "*Api key illa*\n```remove.bg login for apikey```",
-            "RBGING": "```maayikkunu...```"
+            "REMOVEBG_DESC": "ചിത്രത്തിന്റെ background മായിച്ചു കളായാൻ.",
+            "NEED_PHOTO": "*photo താ മോനെ🌚!*",
+            "NO_API_KEY": "*എന്റെ owner ആ vichu മലരൻ എനിക്ക് api key ഒന്നും തന്നിട്ടില്ല🚶‍*\n```remove.bg login for apikey```",
+            "RBGING": "```മായിച്ചു കൊണ്ട് ഇരിക്കുന്നു🙂```"
         },
         "scrapers": {
             "TRANSLATE_DESC": "google translator vech viverthanam cheyyunu, eathellum messagin reply cheyannam.",
@@ -219,7 +219,7 @@
         "sticker": {
             "STICKER_DESC": "chithram sticker akkaan.",
             "NEED_REPLY": "*photo allenkil chithram reply cheyyu!*",
-            "DOWNLOADING": "```Ippam Sheriyaakithara 🤠```"
+            "DOWNLOADING": "```ഇപ്പം ശെരിയാക്കിത്തരാം 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "bot working aano enn ariyan",
@@ -232,13 +232,13 @@
         "updater": {
             "UPDATER_DESC": "update indo enn ariyaan.",
             "UPDATE": "*Sophia bot is upto date!*",
-            "NEW_UPDATE": "*sophia Puthiya Update Vannittund..... update cheyunathin mumb support groupil chodikuka 😁 allengil chillapol errors varum 🙂 group-link: https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ * \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
+            "NEW_UPDATE": "*MEL-BOT Puthiya Update Vannittund..... update cheyunathin mumb support groupil chodikuka 😁 allengil chillapol errors varum 🙂 group-link: https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ * \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "botine update cheyaan.",
-            "UPDATING": "```updating wait few miniuts```",
+            "UPDATING": "```updating wait few minutes```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
-            "UPDATED": "*Update aaki monuse 😁🤠✅*",
-            "UPDATED_LOCAL": "*✅ vijayagaramayi Update cheythu!*",
-            "AFTER_UPDATE": "*😎 Sophia Restarting..*"
+            "UPDATED": "*Update ആക്കി മോനുസേ😁🤠✅*",
+            "UPDATED_LOCAL": "*✅ വിജയകരമായി Update ചെയ്തു🤩!*",
+            "AFTER_UPDATE": "*😎 MEL-BOT Restarting..*"
         },
         "weather": {
             "WEATHER_DESC": "ningal therrunna sthalathe kaalavastha kaanikkum.",
@@ -430,14 +430,14 @@
             "UV_PROC": "```Sound Recordingilekk aakkkunu..```"
         },
         "ffmpeg": {
-            "FF_DESC": "paranja ffmpeg filter to the videoyill add aakan.\n⌨️ Example: .ffmpeg fade=in:0:30",
-            "FF_PROC": "effect add aakkunnu.."
+            "FF_DESC": "നിങ്ങൾ പറഞ്ഞ ffmpeg filter വീഡിയോയിൽ add ആക്കാൻ.\n⌨️ Example: .ffmpeg fade=in:0:30",
+            "FF_PROC": "effect add ആക്കുന്നു.."
         },
         "spammer": {
-            "SPAM_DESC": "nirthunath vere spam aakkum.\n⌨️ Example: .spam test",
-            "NEED_WORD": "*kurach words vennam!*",
-            "STOP_SPAMDESC": "spam command nirhum.",
-            "STOP_SPAM": "✅ *Spaming nirthi 🙌🏻! Please wait a moment.*"
+            "SPAM_DESC": "നിർത്തുന്നത് വരെ spam ആക്കും🌚.\n⌨️ Example: .spam test",
+            "NEED_WORD": "*കുറച്ചു words വേണം!*",
+            "STOP_SPAMDESC": "spam command നിർത്തും.",
+            "STOP_SPAM": "✅ *Spaming നിർത്തി🙌🏻! Please wait a moment.*"
         },
         "carbon": {
             "CARBON_DESC": "Uses carbon.sh for Text-to-Image",
@@ -455,11 +455,11 @@
             "URL": "*image URL venam!*\n*Example:* https://i.hizliresim.com/nrg50b.jpg"
         },
         "ttp": {
-            "TTP_DESC": "text plain text aakunu.",
+            "TTP_DESC": "text audio ആക്കാൻ",
             "ATTP_DESC": "text rainbow effectill sticker aaki maattunu.",
             "NEED_WORD": "*words venam!*",
-            "ANIME_DESC": "penkutti kayyil pidikunna banaril ningal thanna text eythunnu",
-            "TRUMP_DESC": "Trumpinte  tweetillek ningall thanna message aakunnu .",
+            "ANIME_DESC": "പെൺകുട്ടി കയ്യിൽ പിടിക്കുന്ന ബാനറിൽ നിങ്ങൾ തന്ന text എഴുത്തുന്നു ",
+            "TRUMP_DESC": "Trump ഇന്റെ  tweetillek നിങ്ങൾ തന്ന message ആകുന്നു.",
             "CHANGE_DESC": "Turns the text into the change my mind poster."
        },
        "anime": { 
@@ -469,8 +469,8 @@
             "WP": "high resolution wallpapers ayakkunnu."
         },
         "webss": {
-            "SS_DESC": "thanna linkil nin screenshot edth ayach therum.",
-            "LİNK": " link thaa mister!"
+            "SS_DESC": "thanna linkil nin screenshot എടുത്തു ayach therum.",
+            "LİNK": " link thaa മോനെ!"
         },
         "voicy": {
             "NEED_REPLY": "```oru messagin reply theru!```",
@@ -502,7 +502,7 @@
             "ACCOUNT": "Account privacy",
             "PUBLIC": "Public",
             "HIDDEN": "Hidden",
-            "NOT_FOUND":"Usere kittiyilla: "
+            "NOT_FOUND":"Userഇന്നേ കിട്ടിയില്ല: "
         },
         "qrgenerator": {
              "TEXT": "text enter cheyanam!",
@@ -511,7 +511,7 @@
         },
         "whois": {
             "PL_DESC": "alude alenkill groupinte meta data kaanikkunu.",
-            "SUB": "*Groupinte per:* ",
+            "SUB": "*ഗ്രൂപ്പിന്റെ പേര് :* ",
             "DES": "*Group Description:* ",
             "OWN": "*Founder:* ",
             "COD": "*Unique Group Code:* ",
@@ -536,7 +536,7 @@
             "NO_RESULT": "*I can not make this fancy*"
         },
         "github": {
-            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github phaticusthiccy",
+            "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github MEL-BOT-vichu",
             "REPLY": "```You Need To Type Any Username!```",
             "NOT": "```User not found!```",
             "FOLLOWERS": "Followers:",
