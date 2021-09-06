@@ -6,7 +6,7 @@ const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys'
 const fs = require('fs');
 const axios = require('axios');
 const Config = require('../config');
-const need = "Command Kazhinn Yanthankilum yazhuth muthe\nðŸ—¡ðŸ—¡"
+const need = "Command കഴിഞ്ഞ് എന്തെങ്കിലും എഴുത് മോനെ\nðŸ—¡ðŸ—¡"
 
 if (Config.WORKTYPE == 'private') {
 
