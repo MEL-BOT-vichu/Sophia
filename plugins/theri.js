@@ -47,7 +47,7 @@ var ldc = ''
 if (Config.LANG == 'AZ') ldc = '*Bağlantı Aşkarlandı!*'
 if (Config.LANG == 'TR') ldc = '*‎Link Tespit Edildi!*'
 if (Config.LANG == 'EN') ldc = '*ith njanum vilikkilla neeyum villikilla* \n 😅 *arod parayan aar kelkaan* \n *edth purath aakiyathin shesham aan parayunne* 😅😅'
-if (Config.LANG == 'ML') ldc = '*ലിങ്ക് കണ്ടെത്തി!*'
+if (Config.LANG == 'ML') ldc = '*വല ആവിശ്യം ഉണ്ടാർന്നോ അവൻ ഇവിടെ എങ്ങാനും അടങ്ങി നിന്നുണ്ടാർന്നോ😒!*'
 if (Config.LANG == 'ID') ldc = '*Tautan Terdeteksi!*'
 if (Config.LANG == 'PT') ldc = '*Link Detectado!*'
 if (Config.LANG == 'RU') ldc = '*Ссылка обнаружена!*'
@@ -60,11 +60,11 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
         let regex3 = new RegExp('myr')
         let regex4 = new RegExp('Myre')
         let regex5 = new RegExp('myre')
-        let regex6 = new RegExp('Thayoli')
-        let regex7 = new RegExp('Thaayoli')
-        let regex8 = new RegExp('Thayolli')
-        let regex9 = new RegExp('Thaayolli')
-        let regex10 = new RegExp('Thayyoli')
+        let regex6 = new RegExp('poori')
+        let regex7 = new RegExp('poorimone')
+        let regex8 = new RegExp('polayadi')
+        let regex9 = new RegExp('Polayadi')
+        let regex10 = new RegExp('Poorimone')
         if (regex1.test(message.message)) {
             var us = await checkUsAdmin(message)
             var im = await checkImAdmin(message)
