@@ -1,7 +1,7 @@
 {
-    "name": "Sophia bgm bot",
-    "description": "Sophia project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.imgur.com/PwDQti2.jpeg",
+    "name": "MEL-BOT made by VICHU💖",
+    "description": "MEL-BOT - Fully functional automatic BGM BOT. With customisable features. MEL-BOT makes usage of WhatsApp fun and easy.",
+    "logo": "https://i.imgur.com/7ucmVQB.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/afnalplk/pikachu",
     "website":   "https://t.me/phaticusthiccy",
@@ -9,18 +9,18 @@
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
+            "description": "QR CODE SCAN ചെയ്തപ്പോൾ കിട്ടിയ CODE(ASENA SESSION) ഇവിടെ പേസ്റ്റ് ചെയുക. Type here yours Asena Session.",
             "required": true
         },
         "SUDO": {
-            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
+            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1).",
             "required": false,
             "value": "919207866848,0"
         },
         "LANGUAGE": {
             "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
             "required": true,
-            "value": "EN"
+            "value": "ml"
         },
         "BGM_FILTER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
@@ -137,7 +137,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "I am ALIVE bro 🙂 coded by hisham-Muhammed"
+            "value": "*ഞാൻ ഇവിടെ തന്നെ ഒണ്ടു. MEL-BOT made by VICHU💖*"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
