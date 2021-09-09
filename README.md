@@ -61,7 +61,7 @@ Click WA logo to Join Support Group ðŸ‘‡
 Click Sophia logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ" target="blank"><img align="center" src="https://i.imgur.com/1CjbIG8.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ" target="blank"><img align="center" src="https://i.imgur.com/7ucmVQB.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
