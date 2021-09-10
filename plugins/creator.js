@@ -56,7 +56,8 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════💖MEL-BOT💖═════╗*\n           \n*⚜═ᴠɪᴄʜᴜ⸙═⚜*\n\n*BOT MADE BY ᴠɪᴄʜᴜ⸙*\n* *\n🪀FOR HELP : wa.me/+79819658699*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Vichu*"
+    r_text[1] = "*🔆🔅🔅ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟs🔅🔅🔆*\n           \n✿ *ᴏᴡɴᴇʀ ᴏғ ᴛʜᴇ ʙᴏᴛ : ᴠɪᴄʜᴜ⸙*\n\✿ *ʙᴏᴛ ɴᴀᴍᴇ :┇ᴍᴇʟ-ʙᴏᴛ┇*\n\✿ *ᴘᴜʙʟɪᴄ ᴍᴇʟ-ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ ɴᴜᴍʙᴇʀ : https://wa.me/+27842524794*\n            \n✿ *ᴏᴡɴᴇʀ ᴄᴏɴᴛᴀᴄᴛ ɴᴜᴍʙᴇʀ : http://wa.me/+79819658699* \n\n 
+                 ✨🧚🏻‍♀️✨"
 
     
 
@@ -72,7 +73,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═MEL-BOT made by VICHU═💥*\n\n*💘 https://github.com/MEL-BOT-vichu/Sophia*\n     \n🌚*\n\n*FOR HELP : wa.me/+79819658699*    \n\n *PUBLIC MEL-BOT NUMBER : wa.me/+27842524794*"
+        r_text[1] = "\n*▇ █ ✨ᴍᴇʟ-ʙᴏᴛ ᴅᴇᴛᴀɪʟs✨█ ▇*          \n✿ *ɢɪᴛʜᴜʙ ʟɪɴᴋ : https://github.com/MEL-BOT-vichu/Sophia*\n\n✿ *ᴏᴡɴᴇʀ ᴏғ ᴛʜᴇ ʙᴏᴛ : ᴠɪᴄʜᴜ⸙*\n     \n✿ *ᴏᴡɴᴇʀ ᴄᴏɴᴛᴀᴄᴛ ɴᴜᴍʙᴇʀ : wa.me/+79819658699*\n\n✿ *ᴘᴜʙʟɪᴄ ᴍᴇʟ-ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ ɴᴜᴍʙᴇʀ : wa.me/+27842524794*  \n\n✿ *ʙᴏᴛ ᴛʏᴘᴇ : ᴘᴜʙʟɪᴄ*"
 
     
 
