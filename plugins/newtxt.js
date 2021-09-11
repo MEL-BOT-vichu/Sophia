@@ -8,7 +8,7 @@ const axios = require('axios');
 const Config = require('../config');
 const ll ="*Need some Word*"
 const Ln = "*▷MEL-BOT💖 meme maker... നിങ്ങൾക് ആവിശ്യമുള്ള text meme രൂപത്തിൽ ആക്കി തെരുന്നു◁* "
- const code = "*╔═════◉MEL-BOT(by VICHU)◉═════╗*\n           MEL-BOT🪐\n*❖═List═❖*\n\n*💠.yasai       ❴your text❵*\n*💠.uddika    ❴your text❵*\n*💠.aah          ❴your text❵*\n*💠.sir            ❴your text❵*\n*💠.my3         ❴your text❵*\n*💠.fuck         ❴your text❵*\n*💠.hii             ❴your text❵*\n*💠.asai          ❴your text❵*\n*💠.hapoi       ❴your text❵*\n*╚═══❖══▣══▣══❖═══╝*\n\n*▷Translate Credit: Saidali*"
+ const code = "*╔═════◉MEL-BOT(by VICHU)◉═════╗*\n           MEL-BOT🪐\n*❖═List═❖*\n\n*💠.yasai       ❴your text❵*\n*💠.uddika    ❴your text❵*\n*💠.aah          ❴your text❵*\n*💠.sir            ❴your text❵*\n*💠.my3         ❴your text❵*\n*💠.fuck         ❴your text❵*\n*💠.hii             ❴your text❵*\n*💠.asai          ❴your text❵*\n*💠.hapoi       ❴your text❵*\n*╚═══❖══▣══▣══❖═══╝*\n\n*▷MADE BY: VICHU*"
 
 if (Config.WORKTYPE == 'public') {
 
