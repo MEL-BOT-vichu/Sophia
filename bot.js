@@ -820,10 +820,10 @@ ${chalk.blue.italic('ℹ️ MEL-BOT Connecting to WhatsApp... Please Wait.')}`);
                             }
                             else {
                                 await conn.sendMessage(conn.user.jid, '*-- ERROR REPORT [MEL-BOT] --*' + 
-                                    '\n*SOPHI an error has occurred!*'+
+                                    '\n*MEL-BOT an error has occurred!*'+
                                     '\n*This error log may include your number or the number of an opponent. Please be careful with it!*' +
                                     '\n*You can write to our Telegram group for help.*' +
-                                    '\n*Aslo you can join our support group:* https://chat.whatsapp.com/IlmB0J0SilOIJRq1CLotXT' +
+                                    '\n*Aslo you can join our support group:* https://wa.me/+79819658699' +
                                     '\n*This message should have gone to your number (saved messages).*\n\n' +
                                     '*Error:* ```' + error + '```\n\n'
                                     , MessageType.text, {detectLinks: false}
