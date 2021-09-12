@@ -2,14 +2,14 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "Manglish",
     "LANGCODE": "ml",
-    "AUTHOR": "Afnan-plk",
+    "AUTHOR": "VICHU",
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
             "DESC": "Description",
             "EXAMPLE": "Example",
             "NOT_FOUND": "*ഇങ്ങനെ ഒരു command കണ്ട് എത്താൻ ആയില്ല*",
-            "WARN": "Warn"
+            "WARN": "WARNING"
         },
         "_plugin": {
             "INSTALL_DESC": "exetrnal plugins install ചെയാൻ.",
@@ -27,17 +27,17 @@
         },
         "admin": {
             "BAN_DESC": "ഗ്രൂപ്പിൽ ഉള്ള ആരെയെങ്കിലും അടിച്ചു പുറത്ത് ആക്കണം എന്നു ഉണ്ടങ്കിൽ അവനെ ഒന്ന് mention ചെയ്താൽ മതി😼.",
-            "IM_NOT_ADMIN": "*ഞാൻ admin അല്ലാലോ ഡാ കുട്ടാ☹️*",
-            "BANNED": "മൈ** കടക്ക് പുറത്ത്😾!",
+            "IM_NOT_ADMIN": "*ഞാൻ admin അല്ലാലോ കുട്ടാ☹️*",
+            "BANNED": "*നീ ഈ group അർഹിക്കുന്നില്ല..... കടക്ക് പുറത്ത്😾*!",
             "GIVE_ME_USER": "*പുറത്ത് ആകേണ്ട മലരനെ ഒന്ന് mention ചെയ്😈!*",
             "ADD_DESC": "ഗ്രൂപ്പിലോട്ട് ആരെയെങ്കിലും add ആകാൻ.",
             "ADDED": "ഗ്രൂപ്പിലോട്ട് add അക്കിട്ടുണ്ട്😇!",
             "ALREADY_PROMOTED": "```അവൻ admin ആണലോ മോനുസേ🚶‍♂️```",
-            "PROMOTED": "```CONGRATULATION bro..... നിന്നെ ഞാൻ admin ആക്കിട്ടുണ്ട്😍!```",
+            "PROMOTED": "```ഈ ഗ്രൂപ്പിന്റെ admin പദവി നിനക്ക് എന്ത്കൊണ്ടും അർഹിക്കുന്നു.... അത് കൊണ്ട് നിന്നെ ഞാൻ admin ആക്കിട്ടുണ്ട്🤩😍!```",
             "PROMOTE_DESC": "ഗ്രൂപ്പിൽ ഉള്ള ആരെയെങ്കിലും admin ആകാൻ.... വിശ്വാസം ഉള്ളവരെ മാത്രം admin ആക്കുക🤸‍♀️.",
             "DEMOTE_DESC": "Admin സ്ഥാനം തൂക്കി എടുത്ത് കളയാൻ🌚.",
             "ALREADY_NOT_ADMIN": "```അഡ്മിനെ ഞാൻ എങ്ങനെയാ കുട്ടാ ഇന്നിം admin ആക്കുനെ👀?```",
-            "DEMOTED": "```ഈ മോനുസിന്റെ admin സ്ഥാനം തൂക്കി എടുത്ത് കളഞ്ഞിട്ടുണ്ട്🤸‍♀️!```",
+            "DEMOTED": "```Sorry മോനു😂 നിന്റെ admin സ്ഥാനം ഞാൻ ഇങ്ങു എടുക്കുവാ🌚!```",
             "MUTE_DESC": "Admin മാത്രം മെസ്സേജ് അയക്കാൻ പറ്റുന്ന വിധം ആക്കി വെക്കാൻ🤸‍♀️.",
             "MUTED": "```ഇനി admins മാത്രം മെസ്സേജ് അയച്ചാ മതി💖!```",
             "UNMUTE_DESC": "Admins only ആണെങ്കിൽ അത് മാറ്റാൻ👀.",
@@ -46,8 +46,8 @@
             "INVITE": "```ഇന്നാ ഗ്രൂപ്പിന്റെ ക്ഷേണ കത്ത്🌚: ```"
         },
         "locate": {
-            "L_DESC": "location ayach therum.",
-            "L_WARN": "location on aan enn orapp വെരുത്തുക!"
+            "L_DESC": "location അയച്ചു തേരും🗺.",
+            "L_WARN": "location on ആണ് എന്ന് ഒറപ്പ് വെരുത്തുക💫!"
         },
         "random_pic":{
             "BTS_DESC": "Get BTS random images.",
@@ -56,16 +56,16 @@
         },
         "afk": {
             "AFK_DESC": "ningale AFK aakkum - Away From Keyboard.",
-            "IM_AFK": "*njan AFK aan!*",
-            "IM_AFK_NOMD": "njan AFK aan!",
-            "REASON": "kaaranam",
-            "LAST_SEEN": "avasanam kandath",
-            "IM_NOT_AFK": "```njan AFK aan!```",
-            "AFK_TEXT": "```എന്റെ owner ആയ VICHU ser ഇപ്പൊ online ഇല്ല.```",
-            "AFK_TEXT_NOMD": "njan bot aan!",
-            "HOUR": "manikoor",
-            "MINUTE": "minute",
-            "SECOND": "second"
+            "IM_AFK": "*🔹 AFK SETTING : ON✔️*",
+            "IM_AFK_NOMD": "*🔹 AFK SETTING : ON✔️*",
+            "REASON": "കാരണം",
+            "LAST_SEEN": "അവസാനമായി കണ്ടത്",
+            "IM_NOT_AFK": "```AFK SETTING : OFF```",
+            "AFK_TEXT": "*_🤺ദേവയുക്തം ഐശ്വര്യം ✨🌄 ഗെദാരോഗ്യായ കൽപ്പതെ🪨📜 ശശായ്‌വ സുഷജാംശ്രേഷ്ഠു 🌎 യോഗ്യെ യോഗ്യ പ്രെമോജയെ🕊️⚡_                                      🐾VICHU ser🏂 ഇപ്പം online🍃 ഇല്ല വരുമ്പോൾ അറിയിക്കാം📣🧸*",
+            "AFK_TEXT_NOMD": "*ഞാൻ bot ആണ്🤸‍♀️*",
+            "HOUR": "മണിക്കൂർ",
+            "MINUTE": "മിനിറ്റ്",
+            "SECOND": "സെക്കന്റ്‌"
         },
         "evaluators": {
             "TERM_DESC": "serverinte shellill command run cheyum.",
@@ -73,8 +73,8 @@
         },
         "nekobin": {
             "NEKO_DESC": "Replied messages will be added to nekobin.com.",
-            "NEED_REPLY": "```oru messagin reply cheyyu!```",
-            "MUST_TEXT": "```eathellum oru messagin reply cheyyu```"
+            "NEED_REPLY": "```ഒരു മെസ്സേജിന് reply ചെയ്യൂ!```",
+            "MUST_TEXT": "```ഏതേലും ഒരു മെസ്സേജിന് reply ചെയ്യൂ```"
         },     
         "info": {
             "INFO_DESC": "Show chat details",
@@ -83,26 +83,26 @@
             "GRP_OWN": "*🔅 ഗ്രൂപ്പിന്റെ owner :*",
             "GRP_COD": "*✳️ ഗ്രൂപ്പിന്റെ ക്ഷേണ കത്ത് :*",
             "GRP_DES": "*🗨️ ഗ്രൂപ്പിന്റെ description :*",
-            "PRO_JID": "*💬 Userഇന്റെ JID :*",
-            "PRO_DES": "*🗨️ USERഇന്റെ Description :*"
+            "PRO_JID": "*💬 USER-ഇന്റെ JID :*",
+            "PRO_DES": "*🗨️ USER-ഇന്റെ Description :*"
         },
         "heroku": {
             "RESTART_DESC": "\nMEL-BOTഇന്നേ RESTART ചെയുന്നതിനായി\n",
-            "RESTART_MSG": "```MEL-BOT RESTARTING🌟```",
-            "SHUTDOWN_DESC": "\nShutdown MEL-BOTl\n",
+            "RESTART_MSG": "```MEL-BOT RESTARTING....🥀```",
+            "SHUTDOWN_DESC": "\nShutdown MEL-BOT\n",
             "SHUTDOWN_MSG": "```MEL-BOT ഇന്നേ അടച്ചു പൂട്ടുന്നു⛔```",
-            "DYNO_DESC": "heroku dyno kanaan ",
-            "DYNO_TOTAL": "```motham Quota```",
-            "DYNO_USED": "```Quota upayogichath```",
-            "PERCENTAGE": "```shedhamanam```",
-            "DYNO_LEFT": "```backi ullath```",
+            "DYNO_DESC": "HEROKU DYNOയുടെ വിവരങ്ങൾ അറിയാൻ",
+            "DYNO_TOTAL": "```TOTAL DYNO HOURS :```",
+            "DYNO_USED": "```USED DYNO HOURS :```",
+            "PERCENTAGE": "```PERCENTAGE :```",
+            "DYNO_LEFT": "```DYNO HOURS LEFT :```",
             "SETVAR_DESC": "heroku config var set cheyaan",
-            "SET_SUCCESS": "vijayagaramaayi set cheythu ```{} ➜ {}```",
+            "SET_SUCCESS": "വിജയകരമായി set ചെയ്തു ```{} ➡️ {}```",
             "KEY_VAL_MISSING": "``` Key allenkkil Value missing aan```",
             "INVALID": "```asaathuvaya key:value format```",
             "GETVAR_DESC": "Get heroku config var",
             "DELVAR_DESC": "Delete heroku config var",
-            "DEL_SUCCESS": "```{} vijayagaramaayi delete cheythu```",
+            "DEL_SUCCESS": "```{} വിജയകരമായി delete ചെയ്തു```",
             "NOT_FOUND": "```ee keykk result onnum kandethaan aayilla```"           
         },
         "filters": {
@@ -164,18 +164,18 @@
         },
         "profile": {
             "KICKME_DESC": "enne groupill nin purath akaan.",
-            "KICKME": "```Bye bye! njan povunnu 🤠```",
+            "KICKME": "*അപ്പൊ bie, എനിക്ക് പോവാൻ ഒള്ള വണ്ടി വന്നു🚗🚶‍♂️*",
             "PP_DESC": "reply cheytha chithram profil akkaan.",
             "NEED_PHOTO": "*Give me a photo!*",
-            "PPING": "```profile maattunnu...```",
+            "PPING": "```profile മാറ്റുന്നു...```",
             "BLOCK_DESC": "Block user.",
             "UNBLOCK_DESC": "Unblock user.",
             "BLOCKED": "നീയും ആയി ഞാൻ ഇനി മിണ്ടില്ല😒",
             "UNBLOCKED": "നിന്റെ അടുത്ത് ഞാൻ ഇനി മിണ്ടാം🌚",
-            "BLOCKED_UPPER": "Block aakki!",
-            "UNBLOCKED_UPPER": "Unblock aakki.",
+            "BLOCKED_UPPER": "നീയും ആയി ഞാൻ ഇനി മിണ്ടില്ല😡",
+            "UNBLOCKED_UPPER": "നീയും ആയി ഇനി ഞാൻ മിണ്ടാം🌚",
             "NEED_USER": "oru usere theru!",
-            "JID_DESC": "userude JID  .",
+            "JID_DESC": "USERഇന്റെ JID  :",
             "JID": "```JID address of``` @{} ```: {}```",
             "JID_CHAT": "```Chat inte JID address: {}```"
         },
@@ -183,7 +183,7 @@
             "REMOVEBG_DESC": "ചിത്രത്തിന്റെ background മായിച്ചു കളായാൻ.",
             "NEED_PHOTO": "*photo താ മോനെ🌚!*",
             "NO_API_KEY": "*എന്റെ owner ആ vichu മലരൻ എനിക്ക് api key ഒന്നും തന്നിട്ടില്ല🚶‍*\n```remove.bg login for apikey```",
-            "RBGING": "```മായിച്ചു കൊണ്ട് ഇരിക്കുന്നു🙂```"
+            "RBGING": "```മായിച്ചു കൊണ്ട് ഇരിക്കുന്നു... ഒന്ന് WAIT ചെയ് അടിപൊളി ആയി മായിച്ചു തരാം🤸‍♀️```"
         },
         "scrapers": {
             "TRANSLATE_DESC": "google translator vech viverthanam cheyyunu, eathellum messagin reply cheyannam.",
@@ -230,11 +230,11 @@
             "ADMİN": "*njan admin allalo..😕!*"
         },
         "updater": {
-            "UPDATER_DESC": "update indo enn ariyaan.",
-            "UPDATE": "*Sophia bot is upto date!*",
-            "NEW_UPDATE": "*MEL-BOT Puthiya Update Vannittund..... update cheyunathin mumb support groupil chodikuka 😁 allengil chillapol errors varum 🙂 group-link: https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ * \n\n update cheyummathin munb support groupil chodhikkuka , allenkkil error veran chance und\n\nChanges:\n```",
-            "UPDATE_NOW_DESC": "botine update cheyaan.",
-            "UPDATING": "```updating wait few minutes```",
+            "UPDATER_DESC": "update ondo enn ariyaan.",
+            "UPDATE": "* MEL-BOT is upto date!💖*",
+            "NEW_UPDATE": "*MEL-BOT പുതിയ വേർഷൻ വന്നിട്ടുണ്ട്🤩..... UPDATE ചെയുന്നതിന് മുന്നേ VICHU serഇനോട് ചോദിച്ചു നോക്ക് അല്ലെ error വേരാൻ ചാൻസ് കൂടുതൽ ആണ്🤕. ☎️CONTACT NUMBER: https://wa.me/+79819658699* \n\n UPDATE ചെയുന്നതിന് മുന്നേ VICHU serനോട്‌ ചോദിക്കാതെ error വന്നിട്ട് പിന്നെ കിടന്നു കരഞ്ഞിട്ട് കാര്യമില്ല🚶‍♂️\n\nപുതിയ മാറ്റങ്ങൾ:\n```",
+            "UPDATE_NOW_DESC": "BOTഇന്നേ update ചെയാൻ .",
+            "UPDATING": "```📲UPDATING...... WAIT FOR FEW MINUTES⏰️```",
             "INVALID_HEROKU": "*❌ ningal thanna Heroku information thett aan !*",
             "UPDATED": "*Update ആക്കി മോനുസേ😁🤠✅*",
             "UPDATED_LOCAL": "*✅ വിജയകരമായി Update ചെയ്തു🤩!*",
@@ -275,10 +275,10 @@
             "JOKE_DESC": "oru thamasha parayyatte....",
             "JOKE": "thamasha:",
             "PUNCHLINE": "Punchline:",
-            "EVINS_DESC": "korch insult kelkaan.",
+            "EVINS_DESC": "കൊറച്ച് ചീത്ത വിളി കേൾക്കാൻ😂.",
             "EVINS": "...",
-            "ZODIAC_DESC": "nekshathrathinte jaadhagam ariyaan.",
-            "NEED_ZOD": "*thettaaya Request,Provide your sunsign*",
+            "ZODIAC_DESC": "നക്ഷത്രത്തിന്റെ ജാതഗം അറിയാൻ.",
+            "NEED_ZOD": "*തെറ്റായ Request,Provide your sunsign*",
             "SUNSIGN": "nekshathram",
             "HOROSCOPE": "jaadhagam",
             "NEWS_DESC": "choodulla vaarthakkayyi,  .news inu shasham catagory add cheyanam .",
