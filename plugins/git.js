@@ -635,12 +635,12 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '*MEL-BOT DETAILS*'
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '*MEL-BOT DETAILS*
 ✿ *ᴏᴡɴᴇʀ ᴄᴏɴᴛᴀᴄᴛ ɴᴜᴍʙᴇʀ : wa.me/+79819658699*
 ✿ *ɢɪᴛʜᴜʙ ʟɪɴᴋ : https://github.com/MEL-BOT-vichu/Sophia*
 ✿ *ᴘᴜʙʟɪᴄ ᴍᴇʟ-ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ ɴᴜᴍʙᴇʀ : wa.me/+27842524794*
 ✿ *ʙᴏᴛ ᴛʏᴘᴇ : ᴘᴜʙʟɪᴄ*
 *✿ *ᴏᴡɴᴇʀ ᴏғ ᴛʜᴇ ʙᴏᴛ : ᴠɪᴄʜᴜ⸙*
-`}) 
+'}) 
 
 }));
