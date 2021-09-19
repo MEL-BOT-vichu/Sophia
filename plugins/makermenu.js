@@ -541,7 +541,7 @@ else if (Config.WORKTYPE == 'public') {
         topText = split[0];
 }
 
-    var sewimage = await axios.get(`https://api.zeks.xyz/api/wolflogo?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
+    var sewimage = await axios.get(`https://api.lolhuman.xyz/api/textprome2/wolflogo?apikey=beta&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
     await message.client.sendMessage(message.jid,Buffer.from(sewimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*MADE BY MEL-BOT*' })
 
