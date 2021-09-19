@@ -37,7 +37,7 @@ Asena.addCommand({pattern: 'logo', fromMe: false, desc: Lang.TXTTOIMG_DESC}, (as
 
 }
 
-    var webimage = await axios.get(`https://videfikri.com/api/textmaker/tiktokeffect/?text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
+    var webimage = await axios.get(`https://api.lolhuman.xyz/api/textprome2/glitch?apikey=beta&text1=${topText}&text2=${bottomText}`, { responseType: 'arraybuffer' })
 
    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Glitch Effect```'})
 
